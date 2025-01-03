@@ -3,6 +3,8 @@
 The actually-useful bolt hole plugs.
 
 You are welcome to print the ladybugs on your own 3D printer for any purposes without paying any money to Theoretical Climbing.
+We use BambuLab PETG HF filament.
+
 This design is released as a part of Theoretical Climbing's Open Climbing Gear project.
 
 ### License
