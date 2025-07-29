@@ -1,1 +1,0 @@
-[ladybug](https://www.theoreticalclimbing.com/product-page/ladybug) © 2024 by [Theoretical Climbing](https://www.theoreticalclimbing.com/) is licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/)
