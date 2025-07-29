@@ -11,4 +11,4 @@ This design is released as a part of Theoretical Climbing's Open Climbing Gear p
 Open Climbing Gear Project is released under MIT License. Do what you will.
 It'd be cool if you credit Theoretical Climbing for creation/design, though.
 
-For more info, please refer to [LICENSE](LICENSE.md).
+For more info, please refer to [LICENSE](LICENSE).
